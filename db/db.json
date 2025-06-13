@@ -1,0 +1,9 @@
+{
+  "tipoMoeda": [
+    { "sigla": "BRL", "nome": "Real", "simbolo": "R$", "taxa": 1.00 },
+    { "sigla": "USD", "nome": "Dólar Americano", "simbolo": "$", "taxa": 5.10 },
+    { "sigla": "EUR", "nome": "Euro", "simbolo": "€", "taxa": 5.40 },
+    { "sigla": "GBP", "nome": "Libra Esterlina", "simbolo": "£", "taxa": 6.30 },
+    { "sigla": "ARS", "nome": "Peso Argentino", "simbolo": "ARS$", "taxa": 0.02 }
+  ]
+}
